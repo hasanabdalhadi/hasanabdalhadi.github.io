@@ -1,10 +1,12 @@
-# Hasan R. H. Abdalhadi — Personal Website
+# Hasan R. H. Abdalhadi — Personal Portfolio
 
-Personal portfolio website for Hasan R. H. Abdalhadi, Computer Science Engineering student at BITS Pilani – Dubai Campus.
+Personal portfolio website built for GitHub Pages.
 
-Built for GitHub Pages.
-
-## Links
-- GitHub: https://github.com/hasanabdalhadi
-- LinkedIn: https://www.linkedin.com/in/hasan-r-h-abdalhadi-56889a212
-- Medium: https://medium.com/@hasanabdalhadi
+Includes:
+- Professional portrait
+- About, experience and education
+- Featured Maintenance Management System project
+- Direct WhatsApp contact
+- Click-to-call phone number
+- Email, GitHub, LinkedIn and Medium links
+- Responsive desktop/mobile design
