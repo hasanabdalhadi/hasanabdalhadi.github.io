@@ -1,12 +1,11 @@
-# Hasan R. H. Abdalhadi — Personal Portfolio
+# Hasan R. H. Abdalhadi — Personal Portfolio V2
+A custom responsive personal portfolio for GitHub Pages.
 
-Personal portfolio website built for GitHub Pages.
+## Files
+- `index.html` — page content
+- `style.css` — visual design and responsive layout
+- `script.js` — subtle reveal and cursor effects
+- `profile.jpg` — profile/field photo
 
-Includes:
-- Professional portrait
-- About, experience and education
-- Featured Maintenance Management System project
-- Direct WhatsApp contact
-- Click-to-call phone number
-- Email, GitHub, LinkedIn and Medium links
-- Responsive desktop/mobile design
+## Deploy
+Upload all four files to the root of `hasanabdalhadi.github.io` and commit the changes.
